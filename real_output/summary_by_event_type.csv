@@ -1,0 +1,33 @@
+﻿event_type,asset,window,cum_return
+LPR Cut,中证全债,event_0_to_1,0.0032977981028781134
+LPR Cut,中证全债,full_minus5_to_plus5,0.005329849094973804
+LPR Cut,中证全债,post_1_to_5,0.0004673141830457972
+LPR Cut,中证全债,pre_5_to_1,0.0009955354443333213
+OMO Rate Cut,中证全债,event_0_to_1,0.00032307105702167327
+OMO Rate Cut,中证全债,full_minus5_to_plus5,0.002668605823696213
+OMO Rate Cut,中证全债,post_1_to_5,0.0006416023913616842
+OMO Rate Cut,中证全债,pre_5_to_1,0.0007344885858567851
+Policy Package,中证全债,event_0_to_1,3.702164325664059e-05
+Policy Package,中证全债,full_minus5_to_plus5,0.014862255861607387
+Policy Package,中证全债,post_1_to_5,-0.0002542213705644114
+Policy Package,中证全债,pre_5_to_1,0.014183510605134897
+RRR Cut,中证全债,event_0_to_1,0.0006113701323785156
+RRR Cut,中证全债,full_minus5_to_plus5,0.0029517289435450067
+RRR Cut,中证全债,post_1_to_5,0.0005633027096150952
+RRR Cut,中证全债,pre_5_to_1,0.0008749490941063106
+LPR Cut,沪深300,event_0_to_1,-0.01456849720856838
+LPR Cut,沪深300,full_minus5_to_plus5,0.016471479603134737
+LPR Cut,沪深300,post_1_to_5,0.0070906658122528166
+LPR Cut,沪深300,pre_5_to_1,0.02056784651822226
+OMO Rate Cut,沪深300,event_0_to_1,-0.0008900194653098659
+OMO Rate Cut,沪深300,full_minus5_to_plus5,0.014576763248697944
+OMO Rate Cut,沪深300,post_1_to_5,0.0008737424055222931
+OMO Rate Cut,沪深300,pre_5_to_1,0.005076475030008631
+Policy Package,沪深300,event_0_to_1,0.019435103397860365
+Policy Package,沪深300,full_minus5_to_plus5,0.05548094120142605
+Policy Package,沪深300,post_1_to_5,0.07471684931579148
+Policy Package,沪深300,pre_5_to_1,-0.0609199855752286
+RRR Cut,沪深300,event_0_to_1,0.009417008510009298
+RRR Cut,沪深300,full_minus5_to_plus5,0.015540759311883923
+RRR Cut,沪深300,post_1_to_5,-0.004316986605112927
+RRR Cut,沪深300,pre_5_to_1,-0.0017406035077410416

@@ -1,0 +1,28 @@
+# Local environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE and OS files
+.idea/
+.vscode/
+desktop.ini
+.DS_Store
+
+# Course documents and generated presentation assets
+report/
+slides/
+sample_output/
+*.pptx
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Duplicate/generated scratch output
+src/output/
+
+# Archived sample data kept locally, not part of the public data release
+data/archive_sample_market_data.csv
